@@ -1,4 +1,4 @@
-## Site institucional desenvolvido com html,css e Javascript
+## Site institucional desenvolvido com html, css, php e Javascript
 
 ![img1](https://github.com/user-attachments/assets/a646dbdf-d5bf-4fc2-81ea-f5ec72a9bda7)
 ![img2](https://github.com/user-attachments/assets/923b99b6-4bad-47b6-8d22-2a3faf66400c)
